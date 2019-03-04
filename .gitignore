@@ -1,0 +1,3 @@
+#This is a file where we need to mention which file git has to ignore.
+
+*.class
